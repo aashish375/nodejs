@@ -1,0 +1,50 @@
+/* I apply here css for the font*/
+body{
+    font-family: Arial, sans-serif;
+  
+}
+/* I am applying css here for the color*/
+a{
+    color: red;
+    text-decoration: none;
+}
+/* i hav applied here tag forn to un-underline the link*/
+a:hover{
+    text-decoration: none;
+}
+/* i am targeting for the change in color while puttinh cursor in the links*/
+
+a:hover{
+    color:aquamarine;
+}
+/* I am applying here for the border and radius*/
+
+img{
+    border:10px solid black;
+    border-radius: 20px;
+}
+/* i am apling table to add this border*/
+
+table{
+width:40%;
+border-collapse
+margin-top:15px
+
+/* applying for the change in head and data*/
+}
+th,td{
+    padding:10px
+    text-align:left;
+
+/* this will help to do conseqeutive effect*/
+}
+tr:nth-child(even){
+    background-color:#f2f2f2;
+}
+/* i am applying here for the list to remove the bullet points*/
+ul{
+
+    list-style-type:none;
+}
+
+
